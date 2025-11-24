@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge)](https://www.bibekgupta.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bibekguptaweb)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:bibekguptatech@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:bibekguptaweb@gmail.com)
 
 </div>
 
