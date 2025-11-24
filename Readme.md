@@ -21,13 +21,14 @@ I'm a **Fullstack Software Engineer** passionate about building **scalable, clou
 
 ## 💻 Technical Skills
 
-### Languages
+### Languages & AI
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Frontend & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -44,6 +45,9 @@ I'm a **Fullstack Software Engineer** passionate about building **scalable, clou
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -54,46 +58,6 @@ I'm a **Fullstack Software Engineer** passionate about building **scalable, clou
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-
-## 🏆 Professional Highlights
-
-### Tekkon Technology Pty Ltd (May 2022 - August 2025)
-- 🏗️ **Re-architected CQRS-based serverless microservices** processing **500K+ events** and **50K+ transactions** daily
-- 📊 Built **crypto analytics** and **event replay systems** with zero data loss for **100K+ active users**
-- 🔒 Achieved **SOC2 compliance**, reducing vulnerabilities by **60%** through security best practices
-- 📈 Improved **MTTR by 40%** and **incident response time by 45%** with CloudWatch and Datadog
-- 🧪 Achieved **90-95% test coverage** using TDD, reducing bugs and hotfixes by **70%**
-- 🌾 Built **ML data pipelines** for satellite insights across **120+ farms** and **1.2M+ hectares**
-
-### Core Software Integrated LLC (Apr 2021 - May 2022)
-- 🚀 Developed scalable **GraphQL/REST APIs** supporting **75K+ users** and **15K+ connections**
-- ⚡ Optimized backend queries, improving **API speed by 45%** and **deployment reliability by 20%**
-- 💳 Integrated **Stripe payments** with webhook support for seamless transaction processing
-
-### Previous Experience
-- **Fiberknot Digital**: Built real-time financial reporting for **1000+ businesses**
-- **Huawei Technology**: Developed IoT health monitoring solutions for **Tech4Good** initiative
-- **Techlekh Services**: Optimized systems serving **21K+ users** with **45% load speed improvement**
-
-## 🎓 Education
-
-**Master of Science in Computer Science** | Florida Polytechnic University (Fall 2025 - May 2027)
-- Courses: Machine Learning, Distributed Systems, Computer Networking, Algorithm Design
-- Graduate Teaching Assistantship: Programming and Software Engineering Concepts
-
-## 🛠️ Notable Projects
-
-### 🔐 Decentralized KYC Document System for Banks
-**Tech Stack:** Solidity, Ethereum, Hardhat, Metamask, React, Node.js
-- Blockchain-based KYC solution for secure, decentralized document verification
-
-### 🌍 Air Quality Prediction System
-**Tech Stack:** Python, Django, Scikit-learn
-- ML-based regression model for predicting air quality in Kathmandu
-
-### 📝 Online Blogging Platform
-**Tech Stack:** Python, Django, Bootstrap
-- Full-featured blogging system with modern UI/UX
 
 ## 🎤 Speaking & Community
 
