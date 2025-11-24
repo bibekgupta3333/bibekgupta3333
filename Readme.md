@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge)](https://www.bibekgupta.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bibekguptaweb)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:bibekguptatech@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:bibekguptaweb@gmail.com)
 
 </div>
 
@@ -111,12 +111,12 @@ const bibek = {
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bibekgupta3333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+<img src="https://github-readme-stats.vercel.app/api?username=bibekgupta3333&show_icons=true&count_private=true&include_all_commits=false&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekgupta3333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekgupta3333&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
 
 </td>
 </tr>
