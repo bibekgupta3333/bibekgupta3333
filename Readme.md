@@ -77,7 +77,7 @@ I'm a **Fullstack Software Engineer** passionate about building **scalable, clou
 
 ## 🎓 Education
 
-**Master of Science in Computer Science** | Florida Polytechnic University (2025 - 2027)
+**Master of Science in Computer Science** | Florida Polytechnic University (Fall 2025 - May 2027)
 - Courses: Machine Learning, Distributed Systems, Computer Networking, Algorithm Design
 - Graduate Teaching Assistantship: Programming and Software Engineering Concepts
 
