@@ -1,29 +1,20 @@
 # Hi there, I'm Bibek Gupta 👋
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.bibekgupta.com-blue?style=for-the-badge&logo=google-chrome)](https://www.bibekgupta.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bibekguptaweb-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bibekguptaweb)
-[![Email](https://img.shields.io/badge/Email-bibekguptatech@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bibekguptatech@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-bibekgupta3333-181717?style=for-the-badge&logo=github)](https://github.com/bibekgupta3333)
+## 👨‍💻 About Me
 
-</div>
+🚀 **Fullstack & Cloud Engineer** with 5+ years of experience (since 2018) at TechLekh, GetBamboo.io, Aleign, IOUCash, and Laconik—building scalable, cloud-native applications across fintech, e-commerce, healthcare, and agritech.
 
-## 💻 Fullstack | Backend | Cloud Engineer | DevOps Engineer | Network | AWS | Serverless | Node.js | TypeScript | Python | AI/ML | Cloud-Native Architect
+🛠️ **Specializing in** AWS Serverless (Lambda, DynamoDB, Step Functions), Node.js, TypeScript, Python, GraphQL/REST APIs, Docker/Kubernetes, CI/CD pipelines, and infrastructure automation.
 
-I'm a passionate Fullstack and Cloud Engineer with 5+ years of experience (since 2018) designing and building scalable, cloud-native applications across fintech, e-commerce, healthcare, and agritech industries.
+📚 **Passionate about** building highly available microservices, secure authentication systems (JWT, Cognito, OAuth2), ML-driven AgriTech solutions, and exploring Generative AI, Bedrock, and ML on AWS.
 
-From starting as a Software Engineer at TechLekh in Nepal to leading DevOps and backend infrastructure for international companies like GetBamboo.io, Aleign, and IOUCash, I've built, deployed, and scaled production-grade systems using AWS serverless technologies, GraphQL/REST APIs, Docker/Kubernetes, and CI/CD pipelines.
+🏆 **AWS Student Community Day 2024 Speaker** | Open-source advocate with blog contributions on Docker, LocalStack, and cloud-native development.
 
-I specialize in building highly available microservices with Node.js, TypeScript, Lambda, DynamoDB, Step Functions, and secure authentication systems using JWT, Cognito, and OAuth2. At Laconik, I also contributed to machine learning-driven AgriTech solutions—processing satellite imagery and yield prediction models using Python, Django, and Scikit-learn.
+## 🌐 Connect With Me
 
-I'm also an AWS Student Community Day 2024 speaker, educator, and open-source advocate, with blog contributions on Docker, LocalStack, and cloud-native development.
+[![Portfolio](https://img.shields.io/badge/Portfolio-www.bibekgupta.com-blue?style=flat-square&logo=google-chrome)](https://www.bibekgupta.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-bibekguptaweb-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bibekguptaweb)
 
-🚀 Actively exploring Generative AI, Bedrock, and ML on AWS to build the next wave of intelligent, cost-efficient software systems.
-
-Let's connect if you're building for scale, security, and simplicity in the cloud.
-
-## 🔹 Skills
+## 👨‍💻 Technical Skills
 
 ### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -93,31 +84,6 @@ Let's connect if you're building for scale, security, and simplicity in the clou
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![Bibek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibekgupta3333&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Bibek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bibekgupta3333&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bibekgupta3333&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bibekgupta3333&theme=radical&hide_border=true)
-
-</div>
-
-## 🤝 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
-
-- 📧 Email: [bibekguptatech@gmail.com](mailto:bibekguptatech@gmail.com)
-- 🌐 Portfolio: [www.bibekgupta.com](https://www.bibekgupta.com)
-- 💼 LinkedIn: [linkedin.com/in/bibekguptaweb](https://www.linkedin.com/in/bibekguptaweb)
-- 📱 Phone: (863) 337-8628
-
----
-
-<div align="center">
-  
-### 💡 "Building scalable solutions, one commit at a time"
-
-![Profile Views](https://komarev.com/ghpvc/?username=bibekgupta3333&color=blueviolet&style=flat-square)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bibekgupta3333&layout=compact&theme=dark)
