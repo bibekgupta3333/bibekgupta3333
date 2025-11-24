@@ -1,89 +1,135 @@
-# Hi there, I'm Bibek Gupta 👋
+<div align="center">
 
-## 👨‍💻 About Me
+# 👨‍💻 Bibek Gupta
 
-🚀 **Fullstack & Cloud Engineer** with 5+ years of experience (since 2018) at TechLekh, GetBamboo.io, Aleign, IOUCash, and Laconik—building scalable, cloud-native applications across fintech, e-commerce, healthcare, and agritech.
+### Fullstack & Cloud Engineer | AWS Serverless Specialist
 
-🛠️ **Specializing in** AWS Serverless (Lambda, DynamoDB, Step Functions), Node.js, TypeScript, Python, GraphQL/REST APIs, Docker/Kubernetes, CI/CD pipelines, and infrastructure automation.
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge)](https://www.bibekgupta.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bibekguptaweb)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:bibekguptatech@gmail.com)
 
-📚 **Passionate about** building highly available microservices, secure authentication systems (JWT, Cognito, OAuth2), ML-driven AgriTech solutions, and exploring Generative AI, Bedrock, and ML on AWS.
+</div>
 
-🏆 **AWS Student Community Day 2024 Speaker** | Open-source advocate with blog contributions on Docker, LocalStack, and cloud-native development.
+---
 
-## 🌐 Connect With Me
+## 🚀 About Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.bibekgupta.com-blue?style=flat-square&logo=google-chrome)](https://www.bibekgupta.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-bibekguptaweb-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bibekguptaweb)
+```typescript
+const bibek = {
+    role: "Fullstack & Cloud Engineer",
+    experience: "5+ years (since 2018)",
+    companies: ["TechLekh", "GetBamboo.io", "Aleign", "IOUCash", "Laconik"],
+    industries: ["Fintech", "E-commerce", "Healthcare", "Agritech"],
+    focus: ["Cloud-Native Apps", "Microservices", "AWS Serverless", "ML Solutions"],
+    speaker: "AWS Student Community Day 2024",
+    openSource: true
+};
+```
 
-## 👨‍💻 Technical Skills
+**Specializing in:**
+- ☁️ AWS Serverless Architecture (Lambda, DynamoDB, Step Functions)
+- 🔧 Backend Development (Node.js, TypeScript, Python)
+- 🔄 CI/CD & Infrastructure Automation (Docker, Kubernetes)
+- 🔐 Secure Authentication Systems (JWT, Cognito, OAuth2)
+- 🤖 ML-driven Solutions & Generative AI
 
-### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST](https://img.shields.io/badge/REST-005571?style=for-the-badge&logo=rest&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+---
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
-![CDK](https://img.shields.io/badge/CDK-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![CodeBuild](https://img.shields.io/badge/CodeBuild-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
-![LocalStack](https://img.shields.io/badge/LocalStack-2C2255?style=for-the-badge&logo=localstack&logoColor=white)
+## 💻 Technical Skills
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### Architecture & Security
-![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=microservices&logoColor=white)
-![CQRS](https://img.shields.io/badge/CQRS-00599C?style=for-the-badge&logo=architecture&logoColor=white)
-![Event Driven](https://img.shields.io/badge/Event_Driven-FF6B6B?style=for-the-badge&logo=event-driven&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge&logo=oauth&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![SOC2](https://img.shields.io/badge/SOC2-00599C?style=for-the-badge&logo=security&logoColor=white)
-![PCI](https://img.shields.io/badge/PCI-005571?style=for-the-badge&logo=security&logoColor=white)
+### 🎯 Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-### Monitoring & Observability
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
-![Log Management](https://img.shields.io/badge/Log_Management-4B32C3?style=for-the-badge&logo=logs&logoColor=white)
-![Alerting](https://img.shields.io/badge/Alerting-FF6B6B?style=for-the-badge&logo=alert&logoColor=white)
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-### AI/ML & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
-### Tools & Productivity
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+</td>
+<td valign="top" width="50%">
 
-## 📊 GitHub Stats
+### 🏗️ Architecture & Security
+![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=flat-square)
+![Event_Driven](https://img.shields.io/badge/Event_Driven-FF6B6B?style=flat-square)
+![CQRS](https://img.shields.io/badge/CQRS-00599C?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=flat-square)
+![SOC2](https://img.shields.io/badge/SOC2-00599C?style=flat-square)
+![PCI](https://img.shields.io/badge/PCI-005571?style=flat-square)
 
-![Bibek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bibekgupta3333&show_icons=true&theme=dark)
+### 📊 Monitoring & Data
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Scikit_learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bibekgupta3333&layout=compact&theme=dark)
+### 🛠️ Tools & CI/CD
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bibekgupta3333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekgupta3333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bibekgupta3333&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Building the future, one line of code at a time"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=bibekgupta3333&color=58A6FF&style=flat-square)
+
+</div>
