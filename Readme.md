@@ -2,7 +2,7 @@
 
 # 👨‍💻 Bibek Gupta
 
-### Fullstack & Cloud Engineer | AWS Serverless Specialist
+### Fullstack & Cloud Engineer | DevOps | AWS Serverless Specialist
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge)](https://www.bibekgupta.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bibekguptaweb)
@@ -28,8 +28,8 @@ const bibek = {
 
 **Specializing in:**
 - ☁️ AWS Serverless Architecture (Lambda, DynamoDB, Step Functions)
-- 🔧 Backend Development (Node.js, TypeScript, Python)
-- 🔄 CI/CD & Infrastructure Automation (Docker, Kubernetes)
+- 🔧 Backend Development (Node.js, TypeScript, Python, Go)
+- 🔄 DevOps & Infrastructure Automation (Docker, Kubernetes, Helm, Terraform)
 - 🔐 Secure Authentication Systems (JWT, Cognito, OAuth2)
 - 🤖 ML-driven Solutions & Generative AI
 
@@ -46,6 +46,7 @@ const bibek = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
@@ -62,6 +63,7 @@ const bibek = {
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
