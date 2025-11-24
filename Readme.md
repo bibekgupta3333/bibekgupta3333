@@ -111,7 +111,7 @@ const bibek = {
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bibekgupta3333&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+<img src="https://github-readme-stats.vercel.app/api?username=bibekgupta3333&show_icons=true&count_private=true&include_all_commits=false&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
 
 </td>
 <td width="50%">
