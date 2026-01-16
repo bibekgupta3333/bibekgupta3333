@@ -104,30 +104,6 @@ const bibek = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bibekgupta3333&show_icons=true&count_private=true&include_all_commits=false&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekgupta3333&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bibekgupta3333&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 *"Building the future, one line of code at a time"*
